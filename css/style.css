@@ -4,7 +4,8 @@ body {
   font-style: normal;
   font-weight: normal;
   font-variant: normal;
-  text-align: center;
+  text-align: justify;
+  text-align-last: center;
   letter-spacing: 0px;
   line-height: 20px;
 }
