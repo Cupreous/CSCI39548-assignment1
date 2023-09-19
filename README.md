@@ -1,6 +1,8 @@
-# zoo-starter-code
+# csci39548-assignment-1
 
-This repository is the starter code for Assignment 1 - Zoo.
+This repository is for the CSCI39548 Assignment 1 - Zoo.
+
+Group: - Michael Russo (Cupreous)
 
 ### Live Link
 [Website link](https://johnnylaicode.github.io/zoo-starter-code/)
