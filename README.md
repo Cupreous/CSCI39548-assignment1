@@ -2,7 +2,8 @@
 
 This repository is for the CSCI39548 Assignment 1 - Zoo.
 
-Group: - Michael Russo (Cupreous)
+### Group
+ - Michael Russo (Cupreous)
 
 ### Live Link
 [Website link](https://johnnylaicode.github.io/zoo-starter-code/)
