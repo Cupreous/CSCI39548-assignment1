@@ -6,7 +6,7 @@ This repository is for the CSCI39548 Assignment 1 - Zoo.
  - Michael Russo (Cupreous)
 
 ### Live Link
-[Website link](https://johnnylaicode.github.io/zoo-starter-code/)
+[Website link](https://cupreous.github.io/CSCI39548-assignment1/)
 
 ----------
 ### 1. Use the following process to ***import*** the Assignment 1 starter code repository to your GitHub account as your starter codebase
