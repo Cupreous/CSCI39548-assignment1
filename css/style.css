@@ -33,7 +33,7 @@ img{
 }
 
 .flyers {
-  background-color: 90EE90;
+  background-color: #90EE90;
 }
 
 .microorganisms {
@@ -46,4 +46,8 @@ img{
 
 .swimmers {
   background-color:aqua;
+}
+
+.general {
+  background-color: rgb(219, 209, 209);
 }
