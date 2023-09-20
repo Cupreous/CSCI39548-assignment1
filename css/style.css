@@ -25,6 +25,15 @@ img{
   background-color: black;
 }
 
+a {
+  background: none;
+  padding: 0;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: #069;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
 .description {
   display: block;
   max-width: 60%;
