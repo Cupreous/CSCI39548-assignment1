@@ -17,12 +17,12 @@ img{
   margin-right: auto;
   width: 50%;
 
-  border: 1px solid #ddd;
+  border: 1px solid ;
   border-radius: 4px;
   padding: 5px;
   width: 60%;
 
-  background-color:#eee;
+  background-color: black;
 }
 
 .description {
