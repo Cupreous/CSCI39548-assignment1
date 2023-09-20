@@ -10,6 +10,13 @@ body {
   line-height: 20px;
 }
 
+.description {
+  display:block;
+  max-width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 img{
   display: block;
   margin-left: auto;
